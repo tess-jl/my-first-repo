@@ -1,4 +1,4 @@
-# Practising Markdown
+# Practicing Markdown
 
 better README.md
 
