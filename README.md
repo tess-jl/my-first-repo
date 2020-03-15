@@ -1,6 +1,6 @@
-better README.md
+# Practising Markdown
 
-# header 1
+better README.md
 
 ## another header
 _italics_
