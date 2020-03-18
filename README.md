@@ -1,5 +1,7 @@
 # Practicing Markdown
 
+### Gauging how GitHub works!
+
 better README.md
 
 ## another header
